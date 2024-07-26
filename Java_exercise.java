@@ -1,7 +1,7 @@
-1.compare two strings to check and say equal or not:
+//1.compare two strings to check and say equal or not:
 
 import java.util.*;
-class Main{
+class Java_exercise{
   public static void main(String[] args)
   {
     Scanner sc=new Scanner(System.in);
@@ -19,10 +19,10 @@ class Main{
 }
 
 
-2. implementation string upper function:
+//2. implementation string upper function:
 
 import java.util.Scanner;
-class main{
+class Java_exercise{
   public static void main(String args[])
   {
     Scanner s=new Scanner(System.in);
@@ -33,10 +33,10 @@ class main{
   }
 }
 
-3.convert the digits in the string into a single number:
+//3.convert the digits in the string into a single number:
 
 import java.util.*;
-class main{
+class Java_exercise{
   public static void main(String args[]){
     Scanner s=new Scanner(System.in);
     String n=s.nextLine();
