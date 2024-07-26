@@ -2,7 +2,7 @@ import java.util.Stack;
 import java.util.Scanner;
 
 
-class Main{
+class Inf_to_Post{
     
     public static int precedence(char operator){
         switch(operator){
